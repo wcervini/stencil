@@ -1,4 +1,4 @@
-![Stencil Logo](http://scotch.io/wp-content/uploads/2013/09/codeigniter-stencil-1024x426.jpg "Stencil Logo")
+![Stencil Logo](https://codeigniterfun.files.wordpress.com/2014/10/codeigniter-stencil-1024x426.jpg "Stencil Logo")
 
 Stencil :fire: :pencil2:
 =========================== 
